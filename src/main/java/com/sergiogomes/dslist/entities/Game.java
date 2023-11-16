@@ -1,4 +1,4 @@
-package com.sergiogomes.dslist;
+package com.sergiogomes.dslist.entities;
 
 import jakarta.persistence.*;
 
